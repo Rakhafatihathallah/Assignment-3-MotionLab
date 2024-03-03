@@ -11,7 +11,7 @@ import SwiftUI
 struct Assignment_3_MotionLabApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
